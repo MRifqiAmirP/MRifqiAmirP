@@ -1,28 +1,30 @@
+<head>
+  <style>
+    @keyframes typing {
+      from { width: 0; }
+      to { width: 100%; }
+    }
+    @keyframes blink-caret {
+      50% { border-color: transparent; }
+    }
+    .name {
+      display: inline-block;
+      white-space: nowrap;
+      overflow: hidden;
+      border-right: 3px solid;
+      font-family: 'Courier New', Courier, monospace;
+      animation: typing 3s steps(30, end), blink-caret 0.7s step-end infinite;
+    }
+  </style>
+</head>
+
+
 <h1 align="center">
   <a href="#" style="text-decoration:none;">
     <span class="name">Hi 👋, I'm Muhammad Rifqi Amir Putra</span>
   </a>
 </h1>
 <h3 align="center">An Eager Learner in Data Science, Machine Learning, Software Development, Database, and Networking</h3>
-
-<style>
-/* Animasi untuk teks nama */
-@keyframes typing {
-  from { width: 0; }
-  to { width: 100%; }
-}
-@keyframes blink-caret {
-  50% { border-color: transparent; }
-}
-.name {
-  display: inline-block;
-  white-space: nowrap;
-  overflow: hidden;
-  border-right: 3px solid;
-  font-family: 'Courier New', Courier, monospace;
-  animation: typing 3s steps(30, end), blink-caret 0.7s step-end infinite;
-}
-</style>
 
 - 🔭 I’m currently working on **Student**  
 - 🌱 I’m currently learning **Data Science and Machine Learning**  
