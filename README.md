@@ -10,7 +10,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mrifqiamirp&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mrifqiamirp&theme=blue_navy&hide_border=false)<br/>
+<div style="margin: 0 auto;">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrifqiamirp&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
