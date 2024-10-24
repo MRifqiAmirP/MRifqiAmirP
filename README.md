@@ -1,4 +1,5 @@
-<h1>Hi there, I'm Muhammad Rifqi Amir Putra</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Rifqi Amir Putra</h1>
+<h3 align="center">A Eager Learner Data Science, Machine Learning, Software Developer, Database, and Networking</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on Student<br>🌱 I’m currently learning Data Science and Machine Learning<br>👨‍💻 All of my projects are available at Kaggle and GitHub<br>💬 Ask me about Microcontroller and Database<br>📫 How to reach me muhammadrifqiamirp20@gmail.com<br>⚡ Fun fact I'm a proud GGMU supporter
