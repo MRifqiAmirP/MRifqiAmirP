@@ -16,7 +16,7 @@
 ### 📊 GitHub Stats:
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api?username=mrifqiamirp&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" alt="mrifqiamirp" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrifqiamirp&theme=blue_navy&hide_border=false" alt="mrifqiamirp" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrifqiamirp&theme=blue_navy&hide_border=false" alt="mrifqiamirp" /></p><br>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrifqiamirp&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="mrifqiamirp" /></p><hr>
 
